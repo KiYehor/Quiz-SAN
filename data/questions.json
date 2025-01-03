@@ -1,0 +1,5 @@
+[
+    {"question": "What color is the sky?", "options": ["Blue", "Green", "Red", "Yellow"], "answer": "Blue", "points": 10},
+    {"question": "How many days are there in a week?", "options": ["5", "7", "10", "3"], "answer": "7", "points": 15},
+    {"question": "What does a cat have?", "options": ["Paws", "Wheels", "Wings", "Fins"], "answer": "Paws", "points": 20}
+]
